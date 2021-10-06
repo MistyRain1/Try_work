@@ -1,2 +1,2 @@
-# Try_SecantMethod
-homework and the first try
+# 使用说明
+这是一个双点弦截法的简易程序
