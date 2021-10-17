@@ -28,13 +28,13 @@ exp(x) + x** 3 + 10*x - 5
 ## 输入样例
 系数矩阵为  
 $$
-\left[
-\begin{matrix}
--3&2&6\\
-10&-7&0\\
-5&-1&5
-\end{matrix}
-\right]\tag{3}
+ \left[
+ \begin{matrix}
+ -3&2&6\\
+ 10&-7&0\\
+ 5&-1&5
+ \end{matrix}
+ \right]\tag{3}
 $$  
 3  
 -3 2 6 10 -7 0 5 -1 5
