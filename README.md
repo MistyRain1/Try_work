@@ -68,5 +68,3 @@ Y
 5 2 1 -1 4 2 2 -3 10  
 -12 20 3  
 0 0 0  
-
-\sum_j w_j x_j > \mbox{threshold}
